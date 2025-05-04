@@ -60,6 +60,8 @@ This project includes 30+ EDA visualizations and statistical explorations coveri
 
 ---
 
+![Startup Analysis](https://github.com/bhaskarpal1707/Startup-Analysis_Using_Python/blob/main/IMG-2.jpg?raw=true)
+
 ## 📈 Key Insights
 
 1. **FinTech and AI startups** attract the most funding and show the highest profitability rates.
