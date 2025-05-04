@@ -1,3 +1,5 @@
+![Startup Analysis]()
+
 # 💼 Decoding Startup Success | Data-Driven Analysis of Growth, Funding & Profitability
 
 This repository presents an in-depth analysis of startup success through the lens of **growth, funding, profitability, and operational efficiency**. Using a curated, multi-industry dataset and **exploratory data analysis (EDA)** techniques, this project uncovers the factors that differentiate thriving startups from underperformers.
