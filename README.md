@@ -1,4 +1,4 @@
-![Startup Analysis](https://github.com/bhaskarpal1707/Startup-Analysis_Using_Python/blob/main/IMG-1.jpg?raw=true)
+![Startup Analysis](https://github.com/bhaskarpal1707/Startup-Analysis_Using_Python/blob/main/IMG-2.jpg?raw=true)
 
 # 💼 Decoding Startup Success | Data-Driven Analysis of Growth, Funding & Profitability
 
@@ -60,7 +60,7 @@ This project includes 30+ EDA visualizations and statistical explorations coveri
 
 ---
 
-![Startup Analysis](https://github.com/bhaskarpal1707/Startup-Analysis_Using_Python/blob/main/IMG-2.jpg?raw=true)
+![Startup Analysis](https://github.com/bhaskarpal1707/Startup-Analysis_Using_Python/blob/main/IMG-1.jpg?raw=true)
 
 ## 📈 Key Insights
 
