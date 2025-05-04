@@ -58,9 +58,7 @@ This project includes 30+ EDA visualizations and statistical explorations coveri
 | Feature Engineering | Success Rate, Region-Industry groupings |
 | Visualization       | Heatmaps, countplots, pairplots, time-series trends |
 
-## 🧭 EXPLORATORY DATA ANALYSIS (EDA) List:
-
-## 📊 Exploratory Data Analysis (EDA)
+## 📊 EXPLORATORY DATA ANALYSIS (EDA) List:
 
 1. Time Trend Analysis (Year Founded)  
 2. Funding Trend Over Time  
