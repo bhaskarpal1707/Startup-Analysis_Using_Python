@@ -58,6 +58,43 @@ This project includes 30+ EDA visualizations and statistical explorations coveri
 | Feature Engineering | Success Rate, Region-Industry groupings |
 | Visualization       | Heatmaps, countplots, pairplots, time-series trends |
 
+## 🧭 EXPLORATORY DATA ANALYSIS (EDA) List:
+
+## 📊 Exploratory Data Analysis (EDA)
+
+1. Time Trend Analysis (Year Founded)  
+2. Funding Trend Over Time  
+3. Analysis on Different Industries  
+4. Pairplot of Core Financial Features  
+5. Regional Market Share  
+6. Highest Startup Count by Region  
+7. Average Startup Valuation by Region  
+8. Distribution of Different Industries  
+9. Funding Rounds  
+10. Funding Amount (M USD)  
+11. Exit Status Analysis (Countplot)  
+12. Exit Status Analysis (Pie Chart)  
+13. Distribution of Numerical Features  
+14. Correlation Heatmap  
+15. Market Share Distribution by Industry  
+16. Employees vs. Revenue  
+17. Percentage of Profitable Startups by Industry  
+18. Funding Amount vs. Valuation  
+19. Distribution of Employees  
+20. Numerical Variables Distribution  
+21. Profitable vs. Non-Profitable Startups  
+22. Funding Rounds vs. Valuation  
+23. Employees vs. Revenue (Log Scale)  
+24. Top 10 Most Funded Startups  
+25. Success Rate (Exit = Acquired or IPO) by Industry  
+26. Average Revenue by Region  
+27. Compare Valuation & Funding Distributions (Overlapped Histogram)  
+28. Industries with Most Unprofitable Startups  
+29. Employees per Startup by Industry (Boxplot)  
+30. Yearly Average Funding   
+
+---
+
 ---
 
 ![Startup Analysis](https://github.com/bhaskarpal1707/Startup-Analysis_Using_Python/blob/main/IMG-1.jpg?raw=true)
